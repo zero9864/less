@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    margin-top: 32px;
+    
+}
+h1{
+    text-align: center;
+
+}
+.header-p{
+    text-align: center;
+    margin-top: 8px;
+}
+.span{
+    background-color: black;
+    color: white;
+    padding: 2px 4px;
+}
+main{
+    width: 80%;
+    margin: 32px auto;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+section{
+    width: 65%;
+    float: left;
+}
+article{
+    margin-bottom: 24px;
+    box-shadow: 1px 0.5px 10px darkgray;
+    background-color: palegreen;
+    font-family: 'Oswald', sans-serif;      
+    
+}
+.block-entry-content{
+    padding: 12px;
+
+}
+h5{
+    margin-top: 8px;
+    background-color: aqua;
+}
+h3{
+    background-color: lightcoral
+}
+.blog-date{
+    color: gray;
+    
+}
+.blog-description-botton{
+    margin-top: 24px;
+}
+button{
+    padding: 8px 12px;
+    border: 1px solid;
+    margin-left: 10px;
+    margin: 5px;
+    color: lightskyblue;
+    
+}
+.blog-comments{
+    float: right;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+.blog-nomber{
+    background-color: black;
+    color: white;
+    padding: 2px 4px;
+}
+.right-conteiner{
+    float: right;
+    margin-left: 5%;
+    width: 30%;
+}
+aside{
+    box-shadow: 1px 0.5px 10px darkgray;
+    background-color: lightsalmon;
+    font-family: 'Oswald', sans-serif;
+  
+}
+.menu-p{
+    margin-left: 5px;
+    margin-top: 8px;
+    background-color: lightcoral;
+}
+h4{
+    margin-left: 5px;
+    background-color: gold;
+}
+.menu-content{
+    margin-top: 12px;
+}
+body{
+    background-color:lawngreen ;
+}
+.span{
+    background-color: black;
+    color: white;
+}
+.one{
+   position: sticky;
+   border-radius: 50%;
+   width: 200px;
+   min-height: 200px;
+   background-color: aquamarine;
+    
+}
